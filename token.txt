@@ -1,13 +1,2 @@
-<<<<<<< HEAD
-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
+Token Agustin : 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
 
-Romina Mastropierro
-=======
-<<<<<<< HEAD
-2. Camilo Riveros: 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
-=======
-Agustin Rios : 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
-
->>>>>>> b069cb9b96de1c11c0d89a2f35066821a21d03a7
->>>>>>> f40d30b6ae4aead484e3008f5b897b823b972c32
-Ruth López: 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
